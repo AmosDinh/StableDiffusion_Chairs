@@ -1,0 +1,12 @@
+*.zip
+*.png
+*.jpg
+token
+__pycache__
+.DS_Store
+*.csv
+!tags.csv
+tempCodeRunnerFile.py
+kohya_ss/
+sd-scripts/
+*.txt
