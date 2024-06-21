@@ -10,18 +10,18 @@ The model works okay-ish. While it is a lot more simple to generate chairs, it h
 The model is available on huggingface: https://huggingface.co/EpsilonGreedy/StableChairs/<br>
 <br><br>
 Base Stable Diffusion 1.5 model on top, finetuned model on bottom (Same prompt and seed):
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 <br><br>
 Prompt adherence / generalization ability, dimension "material" (metal, polyester, oak, beech, bambus, leather):
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 <br><br>
 My favorite chairs, containing the concept of "rotatable":<br>
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](images/image.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
 <br><br>
 Loss:
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 
 
